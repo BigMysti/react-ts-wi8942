@@ -1,0 +1,1 @@
+export { default as Nftauction } from "./src/screens/Nftauction.js";
